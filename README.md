@@ -6,17 +6,14 @@ The pad runs QMK Firmware with VIA on a Seeed XIAO RP2040. VIA Allows easy custo
 
 # Hardware used
 
-1x Seeed XIAO RP2040 (unsoldered)
-
-1x EC11 Rotary encoder
-
-1x 0.91 inch OLED display (Pin order GND-VCC-SCL-SDA)
-
-5x MX-Style switches
-
-1x Custom PCB (Included in the production folder
-
-1x 3D printed parts
+| Part Name | Quantity |
+|---|---:|
+| 3D Printed case | 1 |
+| Seeed XIAO RP2040 | 1 |
+| EC11 Rotary encoders | 1 |
+| MX-Style Switch | 5 |
+| Keycap | 5 |
+| Custom PCB| 1 |
 
 # Build journal (rev:1)
 

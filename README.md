@@ -8,7 +8,9 @@ The pad runs QMK Firmware with VIA on a Seeed XIAO RP2040. VIA Allows easy custo
 
 To balance the weight you HAVE to put few washers in the bottom part and secure them with hot glue.
 
-You first have to put the switches in the top part, then solder the OLED to the PCB, then you can solder the switches and click them into the bottom part of the case
+You first have to put the switches in the top part, then solder the OLED to the PCB, then you can solder the switches and click them into the bottom part of the case.
+
+The rotary encoder isn't mounted on the PCB due to size savings and also because I wanted to try something new. You can connect it with female jumper cable through the header on the back of the PCB. Also it doesn't have a cap on because I dont like the feeling of them and something just makes me happy seeing raw hardware.
 
 # Looks of the pad
 

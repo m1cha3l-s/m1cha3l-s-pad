@@ -1,6 +1,6 @@
 # m1cha3l's pad
 
-My take on a macropad but with comfort added. Featuring 4x custom mapable MX-Style switches, 1x Rotary encoder and a 0.91 inch OLED desplay.
+My take on a macropad but with comfort added. Featuring 4x custom mapable MX-Style switches, 1x Rotary encoder and a 0.91 inch OLED display.
 
 The pad runs QMK Firmware with VIA on a Seeed XIAO RP2040. VIA Allows easy customization without the need to reflash firmware.
 

@@ -2,9 +2,11 @@
 
 My take on a macropad but with comfort added. Featuring 4x custom mapable MX-Style switches, 1x Rotary encoder and a 0.91 inch OLED display.
 
-The pad runs KMK Firmware on a Seeed XIAO RP2040. That allows easy changes without having to compile new firmware. Fot that to work correctly tho u will have to install circuitpython on the board first.
+The pad runs KMK Firmware on a Seeed XIAO RP2040. For easy configuration it has been done with POG Configurator for easy setup and reconfiguration. QMK firmware will come in the future to make use of the OLED display.
 
 # IMPORTANT NOTES
+
+As of right now the leds and OLED are not yet set up and firmware not yet 100% tested as I don't have the hardware, once I get it I will update it.
 
 To balance the weight you HAVE to put few washers in the bottom part and secure them with hot glue.
 
@@ -42,7 +44,8 @@ The case uses a screwless design.
 | Seeed XIAO RP2040 | 1 |
 | EC11 Rotary encoders | 1 |
 | MX-Style Switch | 4 |
-| Keycap | 5 |
+| Keycap | 4 |
+| SK6812MINI-E | 4 |
 | Custom PCB | 1 |
 | Old/washers | 4 |
 

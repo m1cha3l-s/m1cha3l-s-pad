@@ -6,7 +6,7 @@ The pad runs KMK Firmware on a Seeed XIAO RP2040. For easy configuration it has 
 
 # IMPORTANT NOTES
 
-You need to have CircuitPython installed on your board. [Here](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)'s a guide. After you put the insides of m1cha3l in production or firmware onto the board, or you use [POG](https://pog.heaper.de) to flash and customize.
+You need to have CircuitPython installed on your board. [Here](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)'s a guide. After you put the insides of m1cha3l in production or m1cha3l onto the board, or you use [POG](https://pog.heaper.de) to flash and customize.
 
 As of right now the leds and OLED are not yet set up and firmware not yet 100% tested as I don't have the hardware, once I get it I will update it.
 

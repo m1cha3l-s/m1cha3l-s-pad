@@ -4,6 +4,8 @@ My take on a macropad but with comfort added. Featuring 4x custom mapable MX-Sty
 
 The pad runs KMK Firmware on a Seeed XIAO RP2040. For easy configuration it has been done with POG Configurator for easy setup and reconfiguration. QMK firmware will come in the future to make use of the OLED display.
 
+The current firmware can be found in the m1cha3l folder
+
 # IMPORTANT NOTES
 
 You need to have CircuitPython installed on your board. [Here](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)'s a guide. After you put the insides of m1cha3l in production or m1cha3l onto the board, or you use [POG](https://pog.heaper.de) to flash and customize.

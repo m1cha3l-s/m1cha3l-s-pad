@@ -1,0 +1,61 @@
+{
+    "keyboard_name": "m1cha3l's pad",
+    "manufacturer": "m1cha3l",
+    "maintainer": "m1cha3l",
+    "url": "",
+    "usb": {
+        "vid": "0x6D63",
+        "pid": "0x7061",
+        "device_version": "1.0.0"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        "direct": [
+            ["GP27", "GP28", "GP29", "GP4", "GP2"]
+        ]
+    },
+    "encoder": {
+        "rotary": [
+            {"pin_a": "GP1", "pin_b": "GP0"}
+        ]
+    },
+    "ws2812": {
+        "pin": "GP26",
+        "driver": "vendor"
+    },
+    "rgb_matrix": {
+        "driver": "ws2812",
+        "animations": {
+            "breathing": true,
+            "cycle_all": true,
+            "cycle_left_right": true,
+            "rainbow_moving_chevron": true,
+            "solid_color": true,
+            "solid_reactive_simple": true
+        }
+    },
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "encoder": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "oled": true,
+        "rgb_matrix": true
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "K1",  "matrix": [0, 0], "x": 0, "y": 0},
+                {"label": "K2",  "matrix": [0, 1], "x": 1, "y": 0},
+                {"label": "K3",  "matrix": [0, 2], "x": 2, "y": 0},
+                {"label": "K4",  "matrix": [0, 3], "x": 3, "y": 0},
+                {"label": "ENC", "matrix": [0, 4], "x": 4, "y": 0}
+            ]
+        }
+    }
+}

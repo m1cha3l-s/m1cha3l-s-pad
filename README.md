@@ -55,4 +55,4 @@ The case uses a screwless design.
 
 # My feelings
 
-Love the project from start to finish and it helped me learn a lot of things and guide me to get my first shipped project! I highly suggest you try and build the macropad from scratch yourself as it is easy to understand and teaches you the basics. 
+Love the project from start to finish and it helped me learn a lot of things and guide me to get my first shipped project! I highly suggest you try and build the macropad from scratch yourself as it is easy to understand and teaches you the basics.  
